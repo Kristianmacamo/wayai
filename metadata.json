@@ -1,0 +1,6 @@
+{
+  "name": "Way Estudantes AI",
+  "description": "Plataforma de Inteligência Artificial para estudantes de Moçambique, com chat académico, gerador de trabalhos ABNT/UP/UEM, análise de ficheiros/imagens e pagamentos M-Pesa, e-Mola e Stripe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
